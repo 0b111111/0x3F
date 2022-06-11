@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TurboSpencer96
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning C# & .NET
+- 🌱 I’m currently learning C# & Unity
 - 💞️ I’m looking to collaborate on my skill
 - 📫 How to reach me ...
 
